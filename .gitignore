@@ -1,0 +1,34 @@
+# VS Code
+.vscode/
+# Unless you want to share specific settings:
+# !.vscode/settings.json
+# !.vscode/tasks.json
+# !.vscode/launch.json
+# !.vscode/extensions.json
+# !.vscode/code-actions-on-save.json
+
+# Antigravity / Gemini
+.antigravity/
+.gemini/
+
+# Node / NPM
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environments
+.env
+.env.local
+.env.*.local
+
+# Build outputs (common folders)
+dist/
+build/
+.next/
+out/
