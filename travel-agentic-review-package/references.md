@@ -23,11 +23,14 @@ Use your local `agentic-playbook` as the practical reference set:
 3. `/Users/fszale/projects/agentic-playbook/guides/engineering/analysis-gap-traceability.md`
    - Why current state, target state, and traceability matter before implementation
 
+4. [aggregate-intelligence/agentic-playbook](https://github.com/aggregate-intelligence/agentic-playbook)
+   - Remote version and source of truth for the playbook patterns
+
 ## Reference You Asked to Share
 
 You also asked to share:
 
-- `https://github.com/aggregate-intelligence/agentic-playbook`
+- [aggregate-intelligence/agentic-playbook](https://github.com/aggregate-intelligence/agentic-playbook)
 
 At review time, that repository was not publicly accessible from this environment, so I did **not** rely on unseen contents in the review package.
 
